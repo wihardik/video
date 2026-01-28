@@ -1,0 +1,30 @@
+{
+  "createdAt": "2026-01-28T06:48:29.662Z",
+  "build": {
+    "complete": true,
+    "passed": false,
+    "attempts": 0
+  },
+  "userRequest": "create a instagram reel for american sports",
+  "planText": "",
+  "userAssetCatalog": [],
+  "generatedAssets": [],
+  "generatedAssetsErrors": [],
+  "assetCatalog": null,
+  "assetMapping": null,
+  "files": {
+    "src/workspace/Composition.tsx": {
+      "sha256": "07e1f9bb5e042d2d7d63e9af7f371d46f073b8bffa3234d4e02dc82c69fa6746",
+      "length": 6720
+    },
+    "src/workspace/VideoConfig.ts": {
+      "sha256": "cd71196d1e9c3fdfb9a72c40f4d15975f8252c6dd182658fc77863a73159598d",
+      "length": 152
+    }
+  },
+  "buildGate": {
+    "outputsTruncated": false,
+    "outputs": [],
+    "compositions": null
+  }
+}
